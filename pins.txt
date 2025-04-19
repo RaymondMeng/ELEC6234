@@ -1,0 +1,25 @@
+To,	Location
+//FPGA时钟
+rst_n,		      PIN_AA14
+clk,			      PIN_AF14
+sw[0],                    PIN_AB12
+sw[1],                    PIN_AC12 
+sw[2],                    PIN_AF9
+sw[3],                    PIN_AF10
+sw[4],                    PIN_AD11 
+sw[5],                    PIN_AD12
+sw[6],                    PIN_AE11
+sw[7],                    PIN_AC9
+sw[8],                    PIN_AD10
+//sw[9],                    PIN_AE12
+led[0],                   PIN_V16
+led[1],                   PIN_W16
+led[2],                   PIN_V17
+led[3],                   PIN_V18
+led[4],                   PIN_W17
+led[5],                   PIN_W19
+led[6],                   PIN_Y19
+led[7],                   PIN_W20
+//led[8],                   PIN_W21
+//led[9],                   PIN_Y21
+
